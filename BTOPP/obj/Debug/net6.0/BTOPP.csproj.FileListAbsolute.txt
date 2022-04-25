@@ -1,0 +1,15 @@
+C:\Users\nguye\Documents\Visual Studio 2022\BTOPP\BTOPP\bin\Debug\net6.0\BTOPP.exe
+C:\Users\nguye\Documents\Visual Studio 2022\BTOPP\BTOPP\bin\Debug\net6.0\BTOPP.deps.json
+C:\Users\nguye\Documents\Visual Studio 2022\BTOPP\BTOPP\bin\Debug\net6.0\BTOPP.runtimeconfig.json
+C:\Users\nguye\Documents\Visual Studio 2022\BTOPP\BTOPP\bin\Debug\net6.0\BTOPP.dll
+C:\Users\nguye\Documents\Visual Studio 2022\BTOPP\BTOPP\bin\Debug\net6.0\ref\BTOPP.dll
+C:\Users\nguye\Documents\Visual Studio 2022\BTOPP\BTOPP\bin\Debug\net6.0\BTOPP.pdb
+C:\Users\nguye\Documents\Visual Studio 2022\BTOPP\BTOPP\obj\Debug\net6.0\BTOPP.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\Visual Studio 2022\BTOPP\BTOPP\obj\Debug\net6.0\BTOPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Documents\Visual Studio 2022\BTOPP\BTOPP\obj\Debug\net6.0\BTOPP.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\Visual Studio 2022\BTOPP\BTOPP\obj\Debug\net6.0\BTOPP.AssemblyInfo.cs
+C:\Users\nguye\Documents\Visual Studio 2022\BTOPP\BTOPP\obj\Debug\net6.0\BTOPP.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\Visual Studio 2022\BTOPP\BTOPP\obj\Debug\net6.0\BTOPP.dll
+C:\Users\nguye\Documents\Visual Studio 2022\BTOPP\BTOPP\obj\Debug\net6.0\ref\BTOPP.dll
+C:\Users\nguye\Documents\Visual Studio 2022\BTOPP\BTOPP\obj\Debug\net6.0\BTOPP.pdb
+C:\Users\nguye\Documents\Visual Studio 2022\BTOPP\BTOPP\obj\Debug\net6.0\BTOPP.genruntimeconfig.cache
