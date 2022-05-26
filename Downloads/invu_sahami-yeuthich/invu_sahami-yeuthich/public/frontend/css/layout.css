@@ -1,0 +1,87 @@
+@font-face {
+    font-family: "Hello Day";
+    src: url("../font/HelloDay-Regular.eot");
+    src: url("../font/HelloDay-Regular.eot?#iefix") format("embedded-opentype"),
+        url("../font/HelloDay-Regular.woff2") format("woff2"),
+        url("../font/HelloDay-Regular.woff") format("woff"),
+        url("../font/HelloDay-Regular.ttf") format("truetype"),
+        url("../font/HelloDay-Regular.svg#HelloDay-Regular") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: "Tahoma", sans-serif;
+}
+
+.title {
+    font-family: "Hello Day", sans-serif;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+.title_font {
+    font-size: 1rem;
+    text-align: center;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.navbar_right {
+    display: block;
+    color: #16a085;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+}
+
+.button_sale {
+    background-color: rgba(249, 165, 169, 0.62);
+    color: #bf0000;
+    border-radius: 5px;
+    border: solid black 1px;
+}
+
+.form-select {
+    width: 40%;
+}
+
+.footer_right a {
+    text-decoration: none;
+    color: white;
+}
+
+.border_title {
+    border-bottom: solid 1px;
+}
+.wt-fill-denim-tint {
+    fill: #D7E6F5 !important;
+}
+.footer-first {
+    height: 100px;
+    background-color: #D7E6F5 !important;
+}
+
+.wt-fill-denim-light {
+    fill: #4D6BC6 !important;
+}
+.footer-middle {
+    height: 100px;
+    background-color: #4D6BC6 !important;
+}
+.wt-bg-denim-tint {
+    background-color: #D7E6F5 !important;
+}
+.footer-color {
+    background-color: #2F466C !important;
+    color: white;
+}
+.icon-color {
+    color: white;
+}
+

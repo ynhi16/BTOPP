@@ -1,0 +1,363 @@
+@font-face {
+    font-family: "Hello Day";
+    src: url("../font/HelloDay-Regular.eot");
+    src: url("../font/HelloDay-Regular.eot?#iefix") format("embedded-opentype"), url("../font/HelloDay-Regular.woff2") format("woff2"), url("../font/HelloDay-Regular.woff") format("woff"), url("../font/HelloDay-Regular.ttf") format("truetype"), url("../font/HelloDay-Regular.svg#HelloDay-Regular") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: "Tahoma", sans-serif;
+}
+
+* {
+    margin: 0;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+}
+
+.btn-xanh {
+    background-color: #16a085;
+    border-radius: 3px;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+
+.btn-trang {
+    background-color: white;
+    border-radius: 5px;
+    border: solid #16a085;
+    color: #16a085;
+    font-weight: bold;
+}
+
+.btn-hong {
+    border-radius: 60px;
+    background-color: #fbc7ca;
+    border: none;
+    box-shadow: 5px 5px 5px #999999;
+    color: #bf0000;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.btn-soluong {
+    /* width: 30px;
+    height: 30px;
+    text-align: center;
+    padding-bottom: 3px; */
+}
+
+.input-trang {
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px #999999;
+    padding-left: 30px;
+}
+
+.input-soluong {
+    width: 25px;
+    height: 25px;
+    border-radius: 3px;
+    border: solid #6666;
+    text-align: center;
+}
+
+.text-xanh {
+    color: #16a085;
+    font-weight: bold;
+}
+
+.text-dendam {
+    font-weight: bold;
+}
+
+
+/*canhan*/
+
+.tab-duocchon {
+    margin-left: 15px;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    padding-top: 7px;
+}
+
+.tab-khongchon {
+    margin-left: 10px;
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    color: #666666;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 7px;
+}
+
+.inf-canhan {
+    margin-top: 50px;
+}
+
+.inf-canhan * {
+    margin-top: 3px;
+}
+
+.input-canhan {
+    margin-bottom: 20px;
+    background-color: #fbfbfd;
+}
+
+.btn-luu {
+    width: 180px;
+    height: 40px;
+}
+
+
+/*giohang*/
+
+.wp-giohang {
+    font-size: 18px;
+    margin-left: 80px;
+}
+
+.item-sanphamgiohang {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.giohang-box3 {
+    vertical-align: bottom;
+    display: inline-table;
+    text-align: right;
+}
+
+.giohang-box3-1 {
+    vertical-align: bottom;
+    display: table-cell;
+    text-align: right;
+}
+
+.p-box4 {
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+.inf-giohang {
+    border: solid #6666;
+    border-width: 1px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-top: 20px;
+    height: 240px;
+}
+
+.inf-giohang * {
+    margin-top: 20px;
+}
+
+.btn-giohang-tttt {
+    height: 40px;
+    width: 80%;
+    margin-left: 25px;
+    margin-right: 20px;
+}
+
+.a-up {
+    color: white;
+    text-decoration: none;
+}
+
+
+/* //////// header menu */
+
+
+/* ///thông thin sản phẩm/// */
+
+
+/*///home
+*/
+
+.img-qc-left {
+    width: 700px;
+    height: 430px;
+}
+
+.wp-thanhtoan {
+    margin-left: 100px;
+    margin-right: 170px;
+    width: 1300px;
+}
+
+.item-donmua {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    border: solid #dddddd;
+    border-width: 2px;
+    margin-bottom: 30px;
+}
+
+.inf-sanpham {
+    border: solid #6666;
+    border-width: 1.5px;
+    border-radius: 5px;
+    height: 580px;
+    padding-left: 15px;
+    padding-top: 20px;
+    margin-left: 50px;
+}
+
+.a-thaotac {
+    padding-left: 5px;
+    color: #16a085;
+    text-decoration: none;
+}
+
+a.a-thaotac:hover {
+    text-decoration: none;
+}
+
+.wp-giohang {
+    font-size: 18px;
+    margin-left: 90px;
+}
+
+.btnsoluong {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    vertical-align: bottom;
+    display: table-cell;
+    text-align: right;
+}
+
+.input-soluong {
+    width: 30px;
+    height: 30px;
+    padding-left: 4px;
+    border: none;
+    color: #696767;
+}
+
+.btn-soluong-giam {
+    border: solid #16a085;
+    background-color: white;
+    width: 29px;
+    height: 29px;
+    border-radius: 3px;
+}
+
+.btn-soluong-tang {
+    background-color: #16a085;
+    border: solid #16a085;
+    width: 29px;
+    height: 29px;
+    border-radius: 3px;
+}
+
+.img-sp-bc {
+    padding-left: 0;
+    padding-right: 10px;
+    margin-bottom: 50px;
+}
+
+.bg-xanh {
+    background-color: #c8f4f3;
+    border-radius: 20px;
+    padding-left: 5px;
+}
+
+.a-del:hover {
+    color: #16a085;
+    text-decoration: none;
+}
+
+.wp-thanhtoan {
+    margin-left: 100px;
+    margin-right: 70px;
+}
+
+.inf-sanpham {
+    border: solid #6666;
+    border-width: 1.5px;
+    border-radius: 5px;
+    height: 580px;
+    padding-left: 15px;
+    padding-top: 20px;
+    margin-left: 50px;
+}
+
+.title-tt {
+    color: #16a085;
+    font-weight: bold;
+}
+
+.thongtin {
+    margin-left: 30px;
+}
+
+.btn-thanhtoan {
+    width: 100%;
+    text-align: center;
+}
+
+.thanhtoan {
+    width: 300px;
+    height: 40px;
+    margin-top: 25px;
+}
+
+.btn-den {
+    background-color: black;
+    color: white;
+    height: 45px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.btn-vienden {
+    background-color: black;
+    color: white;
+    height: 45px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.tab-khongchon {
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+.tab-khongchon:hover {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.tab-duocchon {
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+.tab-duocchon:hover {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.item {
+    width: 250px;
+    /* height: 300px;
+    background-color: black; */
+    height: 400px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 35px;
+}
+
+.tymnho {
+    width: 25px;
+    height: 25px;
+    margin-top: -40px;
+}
